@@ -1,0 +1,21 @@
+customer_key,customer_id,first_name,last_name,email,city,state,country,customer_segment
+1,CUST001,Olivia,Smith,olivia.smith@example.com,Los Angeles,CA,USA,Consumer
+2,CUST002,Liam,Johnson,liam.johnson@example.com,San Diego,CA,USA,Consumer
+3,CUST003,Emma,Williams,emma.williams@example.com,San Francisco,CA,USA,Small Business
+4,CUST004,Noah,Brown,noah.brown@example.com,San Jose,CA,USA,Corporate
+5,CUST005,Ava,Jones,ava.jones@example.com,Sacramento,CA,USA,Consumer
+6,CUST006,William,Miller,william.miller@example.com,Irvine,CA,USA,Small Business
+7,CUST007,Sophia,Davis,sophia.davis@example.com,Long Beach,CA,USA,Consumer
+8,CUST008,James,Garcia,james.garcia@example.com,Anaheim,CA,USA,Corporate
+9,CUST009,Isabella,Martinez,isabella.martinez@example.com,Oakland,CA,USA,Consumer
+10,CUST010,Logan,Robinson,logan.robinson@example.com,Bakersfield,CA,USA,Small Business
+11,CUST011,Mia,Clark,mia.clark@example.com,Riverside,CA,USA,Consumer
+12,CUST012,Benjamin,Rodriguez,benjamin.rodriguez@example.com,Stockton,CA,USA,Corporate
+13,CUST013,Charlotte,Lewis,charlotte.lewis@example.com,Chula Vista,CA,USA,Consumer
+14,CUST014,Elijah,Lee,elijah.lee@example.com,Fremont,CA,USA,Small Business
+15,CUST015,Amelia,Walker,amelia.walker@example.com,Glendale,CA,USA,Consumer
+16,CUST016,Alexander,Hall,alexander.hall@example.com,Huntington Beach,CA,USA,Corporate
+17,CUST017,Harper,Allen,harper.allen@example.com,Modesto,CA,USA,Consumer
+18,CUST018,Daniel,Young,daniel.young@example.com,Ontario,CA,USA,Small Business
+19,CUST019,Evelyn,Hernandez,evelyn.hernandez@example.com,Elk Grove,CA,USA,Consumer
+20,CUST020,Michael,King,michael.king@example.com,Corona,CA,USA,Corporate

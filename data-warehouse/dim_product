@@ -1,0 +1,16 @@
+product_key,product_id,product_name,category,subcategory,brand,unit_price
+1,PROD001,Everyday Notebook,Office Supplies,Notebooks,PaperCo,10.00
+2,PROD002,Wireless Mouse,Electronics,Accessories,TechGear,15.50
+3,PROD003,Travel Mug,Home & Kitchen,Drinkware,CupWorks,7.25
+4,PROD004,4K Monitor,Electronics,Monitors,ViewMax,120.00
+5,PROD005,Running Shoes,Apparel,Footwear,Stride,45.99
+6,PROD006,Pack of Pens,Office Supplies,Writing Instruments,InkWell,5.00
+7,PROD007,Professional Camera,Electronics,Cameras,PhotoPro,250.00
+8,PROD008,Cotton T-Shirt,Apparel,Tops,ComfortWear,19.99
+9,PROD009,USB Cable,Electronics,Cables,LinkUp,3.49
+10,PROD010,Water Bottle,Home & Kitchen,Drinkware,Hydra,9.99
+11,PROD011,Desk Lamp,Home & Kitchen,Lighting,BrightLite,29.95
+12,PROD012,Noise Cancelling Headphones,Electronics,Audio,SoundMax,199.99
+13,PROD013,Blender,Home & Kitchen,Appliances,MixIt,49.50
+14,PROD014,Sports Socks,Apparel,Accessories,ActiveFeet,12.75
+15,PROD015,Sticky Notes,Office Supplies,Notepads,NoteIt,2.99

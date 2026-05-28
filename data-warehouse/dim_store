@@ -1,0 +1,11 @@
+store_key,store_id,store_name,store_type,city,state,country
+1,STORE001,Downtown Retail,Retail,Los Angeles,CA,USA
+2,STORE002,Westside Mall,Retail,San Diego,CA,USA
+3,STORE003,Online Store,Online,Online,CA,USA
+4,STORE004,Northside Outlet,Retail,Sacramento,CA,USA
+5,STORE005,Airport Kiosk,Retail,San Francisco,CA,USA
+6,STORE006,Suburban Plaza,Retail,Irvine,CA,USA
+7,STORE007,Outlet Center,Retail,Oakland,CA,USA
+8,STORE008,Campus Shop,Retail,San Jose,CA,USA
+9,STORE009,City Center,Retail,Long Beach,CA,USA
+10,STORE010,Warehouse Online,Online,Online,CA,USA

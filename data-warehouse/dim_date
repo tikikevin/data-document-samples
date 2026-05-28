@@ -1,0 +1,11 @@
+date_key,full_date,day,month,month_name,quarter,year,is_weekend
+20230101,2023-01-01,1,1,January,1,2023,true
+20230102,2023-01-02,2,1,January,1,2023,false
+20230103,2023-01-03,3,1,January,1,2023,false
+20230104,2023-01-04,4,1,January,1,2023,false
+20230105,2023-01-05,5,1,January,1,2023,false
+20230106,2023-01-06,6,1,January,1,2023,false
+20230107,2023-01-07,7,1,January,1,2023,true
+20230108,2023-01-08,8,1,January,1,2023,true
+20230109,2023-01-09,9,1,January,1,2023,false
+20230110,2023-01-10,10,1,January,1,2023,false
